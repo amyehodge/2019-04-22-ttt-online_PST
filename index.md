@@ -2,11 +2,11 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "cp"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "online"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Online Training, April 22-23, 2019"        # brief name of host site without address (e.g., "Euphoric State University")
 address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: ""       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng:       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "Apr 22-23, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9am-5pm, Pacific Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-04-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
