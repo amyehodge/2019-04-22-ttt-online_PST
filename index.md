@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "cp"    # what kind of Carpentry (must be either "dc" or "swc")
 venue: "Online Training, April 22-23, 2019"        # brief name of host site without address (e.g., "Euphoric State University")
-address: ""      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "https://carpentries.zoom.us/my/carpentriesroom1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng:       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
@@ -16,7 +16,6 @@ helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn We
 contact: ["amyhodge@stanford.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:   https://pad.carpentries.org/2019-04-22-ttt-online_PST          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-location: https://carpentries.zoom.us/my/carpentriesroom1
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
